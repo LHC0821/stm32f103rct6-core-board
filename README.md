@@ -110,16 +110,22 @@ PCB 设计特点：
 
 ### 5.1 原理图总览
 
-![STM32F103RCT6 原理图总览]<img width="684" height="503" alt="image" src="https://github.com/user-attachments/assets/32ff3144-1cc0-41aa-9407-994f59747154" />
+<img width="684" height="503" alt="image" src="https://github.com/user-attachments/assets/32ff3144-1cc0-41aa-9407-994f59747154" />
 
 
 ### 5.2 PCB Layout
 
-![STM32F103RCT6 PCB Layout](docs/images/pcb-layout.png)
+<img width="477" height="435" alt="image" src="https://github.com/user-attachments/assets/1a5f186b-5b48-474b-a48b-adac9df7c28e" />
+
+<img width="645" height="436" alt="image" src="https://github.com/user-attachments/assets/86cdd181-4224-433f-98f3-2e579a6dd11c" />
+
 
 ### 5.3 PCB 三维预览
 
-后续补充 PCB 三维渲染图及实物照片。
+<img width="956" height="801" alt="image" src="https://github.com/user-attachments/assets/a758f868-1371-41c4-b78d-94b0915087e8" />
+
+
+
 
 ## 6. 项目目录结构
 
