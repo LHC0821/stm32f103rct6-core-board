@@ -110,7 +110,7 @@ PCB 设计特点：
 
 ### 5.1 原理图总览
 
-
+<img width="950" height="703" alt="image" src="https://github.com/user-attachments/assets/97a3d809-06f7-4eb6-b0f7-1d377a34d91d" />
 
 
 ### 5.2 PCB Layout
