@@ -110,7 +110,8 @@ PCB 设计特点：
 
 ### 5.1 原理图总览
 
-![STM32F103RCT6 原理图总览](docs/images/schematic-overview.png)
+![STM32F103RCT6 原理图总览]<img width="684" height="503" alt="image" src="https://github.com/user-attachments/assets/32ff3144-1cc0-41aa-9407-994f59747154" />
+
 
 ### 5.2 PCB Layout
 
