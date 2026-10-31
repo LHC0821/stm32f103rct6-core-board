@@ -124,8 +124,7 @@ PCB 设计特点：
 
 <img width="956" height="801" alt="image" src="https://github.com/user-attachments/assets/a758f868-1371-41c4-b78d-94b0915087e8" />
 
-
-
+<img width="982" height="819" alt="image" src="https://github.com/user-attachments/assets/671c9f50-1397-4990-8ea8-f016f458a0f3" />
 
 ## 6. 项目目录结构
 
